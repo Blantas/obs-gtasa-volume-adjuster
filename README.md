@@ -17,7 +17,7 @@ Only tested in OBS 22.0.2. It works only in OBS **32-bit** with administrator pr
 
 # Extra
 
-The script reads/writes game's memory. Use it only if you're sure
+The script reads/writes game's memory. Use it only if you know what you're doing.
 
 To-do:
 * Add option to mute obs source instead of the game
